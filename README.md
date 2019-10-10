@@ -12,3 +12,5 @@ Credits: Károly Dénes, Bulcsú Sándor
 
 * `examples.ipynb` - bevezető példák a Julia használatához és a feladatlapok megoldásához
 
+* `tutorials` - tutorial feladatok a Julia programozási nyelvhez a [JuliaBoxTutorials](https://github.com/JuliaComputing/JuliaBoxTutorials/tree/master/introductory-tutorials/intro-to-julia)-ról. Ugyanitt több bevezető feladat is van.
+
